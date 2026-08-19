@@ -64,7 +64,8 @@ Estou aberta a trocar experiências, aprender com outras pessoas da comunidade d
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=octocat&theme=radical)
+
 
 ### ✨ Ester Andrade
 
